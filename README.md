@@ -9,7 +9,7 @@
 
 :question: CUAL ES ESTE GRADO :question:
 
-**REDES LOCALES Y SISTEMAS MICROINFORMATICOS**
+REDES LOCALES Y SISTEMAS MICROINFORMATICOS
 
 
 :question: Cuales son las asignaturas :question:
@@ -27,3 +27,27 @@
 1. Muchas salidas a futuro
 2. La programacion es super interesante
 3. Los posibles trabajos son bien pagados y teletrabajo
+
+### EXPERIENCIA LABORAL
+
+- 1 Año de monito de activad con caballos
+
+### Aficiones :soccer:
+
+1. Videojuegos
+2. Cocina
+
+### Mis idiomas
+
+- Español muy fluido
+- Ingles B1
+
+### YO
+
+![FOTO PERFIL](asset/img/Currículum%20Vitae%20Cv%20de%20Contabilidad%20Minimalista%20Azul.png)
+
+### Mi aula
+
+[AULA DE PYTHON](https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401)
+
+### Tabla de horario
