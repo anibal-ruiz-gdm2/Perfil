@@ -6,8 +6,13 @@
 
 :question: ¿DE QUE TRATA ESTE GRADO? :question:
 
+
+
+
+:question: ¿Cuales son las asignaturas :question:
+
 - :satellite: Servicios en red 
-- :: Itinerario personal para la empleabilidad.
+- :fax: Itinerario personal para la empleabilidad
 - :gb: Ingles
 - :dollar: Sostenibilidad
 - :chart_with_upwards_trend: Digitalizacion aplicada a los sectores productivos
