@@ -4,4 +4,4 @@
 ### <center>*ANIBAL RUIZ VIDAL*</center>
 ### <center>GDM 2</center>
 
-:sunglasses: ¿DE QUE TRATA ESTE GRADO?
+:sunglasses: ¿DE QUE TRATA ESTE GRADO? :sunglasses:
