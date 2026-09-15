@@ -6,9 +6,10 @@
 
 :question: ¿DE QUE TRATA ESTE GRADO? :question:
 
-- :television: Sistemas en red :television:
--  
-- 
-- 
-- 
-- 
+- :satellite: Servicios en red 
+- :: Itinerario personal para la empleabilidad.
+- :gb: Ingles
+- :dollar: Sostenibilidad
+- :chart_with_upwards_trend: Digitalizacion aplicada a los sectores productivos
+- :symbols: Python
+- :tv: Aplicaciones web
