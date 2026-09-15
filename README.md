@@ -51,3 +51,5 @@ REDES LOCALES Y SISTEMAS MICROINFORMATICOS
 [AULA DE PYTHON](https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401)
 
 ### Tabla de horario
+
+![horario](asset/img/ChatGPT%20Image%2015%20sept%202026,%2014_16_33.png)
