@@ -1,5 +1,7 @@
 
-![Imagen de inicio](https://static.vecteezy.com/system/resources/thumbnails/072/454/698/small/beautiful-sunset-over-a-reflective-beach-with-rocky-formations-capturing-the-vibrant-colors-and-tranquil-atmosphere-of-a-serene-coastal-landscape-at-dusk-photo.jpg)
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/072/454/698/small/beautiful-sunset-over-a-reflective-beach-with-rocky-formations-capturing-the-vibrant-colors-and-tranquil-atmosphere-of-a-serene-coastal-landscape-at-dusk-photo.jpg" alt="Imagen de titulo">
+</p>
 
 <h3 align="center"><strong>ANIBAL RUIZ VIDAL</strong></h3>
 
