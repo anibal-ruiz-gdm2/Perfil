@@ -4,12 +4,12 @@
 ### <center>*ANIBAL RUIZ VIDAL*</center>
 ### <center>GDM 2</center> 
 
-:question: ¿DE QUE TRATA ESTE GRADO? :question:
+:question: DE QUE TRATA ESTE GRADO?:question:
 
 
 
 
-:question: ¿Cuales son las asignaturas :question:
+:question: Cuales son las asignaturas :question:
 
 - :satellite: Servicios en red 
 - :fax: Itinerario personal para la empleabilidad
